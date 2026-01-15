@@ -129,6 +129,17 @@ Evidence repositories may be reviewed in connection with credential issuance or 
 
 ---
 
+## Change Control
+
+This README and repository structure are maintained as a stable reference specification.
+
+Proposed changes, improvements, or extensions are not accepted via issues or pull requests.  
+Updates, if any, are issued by INTEKNIQUE Academy as controlled revisions.
+
+Forks may adapt the structure for personal use, but the canonical reference remains unchanged.
+
+---
+
 ## Statement of Use
 
 > “This repository structure is used by INTEKNIQUE Academy to document applied professional competence.  
